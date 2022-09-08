@@ -2,6 +2,9 @@
 Internet == Démocratisation de la connaissance
 Blockchain == Démocratisation de la transparence
 
+## Docs
+- https://coinacademy.fr/academie/staking-crypto-et-proof-of-stake-faire-fructifier-dynamiquement-son-epargne/
+
 - 2  Uses :  Fraudes  /  Tracabilité.
 ##  Exemples de dommaines
 - Finance Crytomonaie
