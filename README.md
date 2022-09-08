@@ -1,4 +1,13 @@
 # blockchainsample
+Internet == Démocratisation de la connaissance
+Blockchain == Démocratisation de la transparence
+
+- 2  Uses :  Fraudes  /  Tracabilité.
+
+##  Smart  Contract
+
+## Proof of Work (puissance calcul) des Mineurs vs Proof of Stack
+
 
 ## Docs
 - https://piotrminkowski.com/2018/06/22/introduction-to-blockchain-with-java-using-ethereum-web3j-and-spring-boot/
