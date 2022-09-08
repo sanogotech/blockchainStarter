@@ -3,8 +3,16 @@ Internet == Démocratisation de la connaissance
 Blockchain == Démocratisation de la transparence
 
 - 2  Uses :  Fraudes  /  Tracabilité.
+##  Exemples de dommaines
+- Finance Crytomonaie
+- Education / Certification des diplômes
+- Impôts
+- Foncier
+- Tracabilité Agro Business, Elevage
 
-##  Smart  Contract
+## Blockchain Privé vs Public
+
+##  Smart  Contract (pas de possibilité de modifier sans la validateur des parties prenantes)
 
 ## Proof of Work (puissance calcul) des Mineurs vs Proof of Stack
 
